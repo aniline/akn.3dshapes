@@ -9,3 +9,4 @@ of your kicad installation (for e.g.: `/usr/share/kicad/modules/packages3d` on l
 
 * Through hole WOM diode bridge
 * EL14 decoupling transformer (Made it for 600 Ohm 1:1)
+* RJ11 PCB socket, 6P/4C type (623PCB)
